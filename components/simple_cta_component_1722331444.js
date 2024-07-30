@@ -3,7 +3,7 @@
 Vue.component("simple_cta_component_1722331444", {
     template: `
     <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1">
-        <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
+        <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-9">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
                     <h2 id="cta-title" class="flex-1 mb-4 text-3xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white">Revolutionize Your Fitness Journey</h2>
